@@ -1,0 +1,3 @@
+0 string SCHOOL School data file
+!:MIME School
+sudo /usr/sbin/update-mime-database /usr/share/mime
